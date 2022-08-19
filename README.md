@@ -19,7 +19,7 @@ You will use your data warehousing skills to design and implement a data warehou
 1. Design a Data Warehouse
 2. Load data into Data Warehouse
 3. Write aggregation queries
-4. Create MQTs
+4. Create Materialized Query Tables (MQTs)
 5. Create a Dashboard
 
 <br>
