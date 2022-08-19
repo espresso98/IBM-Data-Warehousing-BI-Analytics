@@ -12,7 +12,6 @@ total waste collected per trucktype per station per city
 ```
 You will use your data warehousing skills to design and implement a data warehouse for the company.
 
-<br>
 
 ## Objectives
 
@@ -23,4 +22,3 @@ You will use your data warehousing skills to design and implement a data warehou
 4. Create MQTs
 5. Create a Dashboard
 
-<img src="~/20-pie.jpg" width="200">
