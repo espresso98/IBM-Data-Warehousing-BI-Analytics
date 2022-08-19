@@ -22,3 +22,10 @@ You will use your data warehousing skills to design and implement a data warehou
 4. Create MQTs
 5. Create a Dashboard
 
+<br>
+<img src="https://github.com/espresso98/IBM-Data-Warehousing-BI-Analytics/blob/main/solid-waste-trips-new.png" width="700"> 
+<img src="https://github.com/espresso98/IBM-Data-Warehousing-BI-Analytics/blob/main/1-MyDimDate.jpg" width="700"> 
+<img src="https://github.com/espresso98/IBM-Data-Warehousing-BI-Analytics/blob/main/8-MyFactTrips.jpg" width="500"> 
+<img src="https://github.com/espresso98/IBM-Data-Warehousing-BI-Analytics/blob/main/17-pie.jpg" width="700"> 
+<img src="https://github.com/espresso98/IBM-Data-Warehousing-BI-Analytics/blob/main/18-bar.jpg" width="700"> 
+<img src="https://github.com/espresso98/IBM-Data-Warehousing-BI-Analytics/blob/main/20-pie.jpg" width="700"> 
